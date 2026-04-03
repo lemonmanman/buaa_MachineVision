@@ -16,7 +16,7 @@ conda env list
 ```
 
 ## Operations
-### Color convert
+### Color conversion
 Run the script:
 ```bash
 conda activate vision
@@ -27,4 +27,11 @@ Run the script:
 ```bash
 conda activate vision
 python geo_transform.py
+```
+
+### Image intensification
+Run the script:
+```bash
+conda activate vision
+python img_intensificate.py
 ```
