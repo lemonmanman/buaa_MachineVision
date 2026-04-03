@@ -42,3 +42,10 @@ Run the script:
 conda activate vision
 python edge_extract.py
 ```
+
+### Morphological operation
+Run the script:
+```bash
+conda activate vision
+python morphological_operate.py
+```
