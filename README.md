@@ -19,6 +19,12 @@ conda env list
 ### Color convert
 Run the script:
 ```bash
-conda active vision
+conda activate vision
 python color_convert.py
+```
+### Geometric transformation
+Run the script:
+```bash
+conda activate vision
+python geo_transform.py
 ```
