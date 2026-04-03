@@ -35,3 +35,10 @@ Run the script:
 conda activate vision
 python img_intensificate.py
 ```
+
+### Edge features extraction
+Run the script:
+```bash
+conda activate vision
+python edge_extract.py
+```
