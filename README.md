@@ -49,3 +49,10 @@ Run the script:
 conda activate vision
 python morphological_operate.py
 ```
+
+### Stereo match
+Run the script:
+```bash
+conda activate vision
+python stereo_vision.py
+```
